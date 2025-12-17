@@ -34,7 +34,7 @@ To run this project locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/YourUsername/MyBike-Landing.git
+   git clone https://github.com/tvk777/MyBike-Landing.git
    ```
 
 2. Navigate to the project directory:
