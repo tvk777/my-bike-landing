@@ -49,28 +49,10 @@ To run this project locally, follow these steps:
    npm install
    ```
 
-4. Install recommended VSCode extensions for linting:
-
-   - **Stylelint**
-   - **LintHTML**
-   - **ESLint**
-
-5. Run linting checks:
-
-   ```bash
-   npm run lint
-   ```
-
-6. Start the local development server:
+4. Start the local development server:
 
    ```bash
    npm run start
-   ```
-
-7. Deploy the project to GitHub Pages:
-
-   ```bash
-   npm run deploy
    ```
 
    ### Features
